@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!😊&fontSize=90)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Aurora501;How+lucky+to+meet+you!)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aurora501)](https://github.com/anuraghazra/github-readme-stats)
